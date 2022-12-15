@@ -18,6 +18,7 @@ To run the tests:
 
             npm test rest_parameters.test.js
 
-Hint: make sure you're in the correct folder before running these commands. You will also need to `console.log()` your function to see any output.
+Hint: make sure you're in the correct folder before running these commands. You will also need to `console.log()` your
+function to see any output.
 
 Good luck! 🙌

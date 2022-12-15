@@ -1,8 +1,10 @@
 # Imperative vs Declarative Programming
 
-💬 “Declarative Programming's... main goal is to describe the desired result without direct dictation on how to get it.” - GeeksforGeeks
+💬 “Declarative Programming's... main goal is to describe the desired result without direct dictation on how to get
+it.” - GeeksforGeeks
 
-As the JavaScript language has developed, it has moved away from imperative methods, abstracting complexity away "under the hood". 🚙
+As the JavaScript language has developed, it has moved away from imperative methods, abstracting complexity away "under
+the hood". 🚙
 
 Modern JavaScript is a lot more _declarative_.
 
@@ -14,7 +16,7 @@ An example of an imperative programming method would be a `for` loop:
 
 const people = ["Barry", "Gary", "Larry"];
 
-for(let i = 0; i < people.length; i++) {
+for (let i = 0; i < people.length; i++) {
     console.log(people[i])
 }
 
@@ -34,7 +36,8 @@ people.forEach((person) => console.log(person))
 
 ```
 
-Remembering that declarative programming means "abstracting away complexity", consider how you would refactor the function `longPasswords()` so it uses _declarative_ methods to get the same result.
+Remembering that declarative programming means "abstracting away complexity", consider how you would refactor the
+function `longPasswords()` so it uses _declarative_ methods to get the same result.
 
 To run the tests:
 
@@ -42,4 +45,5 @@ To run the tests:
 
 💡 Hint: make sure you're in the correct folder before running this command! 😉
 
-_Note: there is a place for both imperative and declarative styles of programming. However, declarative programming is often favoured for being more readable._
+_Note: there is a place for both imperative and declarative styles of programming. However, declarative programming is
+often favoured for being more readable._

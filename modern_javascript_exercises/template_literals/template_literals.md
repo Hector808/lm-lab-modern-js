@@ -1,6 +1,7 @@
 # Template Literals
 
-The `greeting()` function returns a string with variables in it using string addition (sometimes called string "interpolation")
+The `greeting()` function returns a string with variables in it using string addition (sometimes called string "
+interpolation")
 
 But there is another, more modern way to concatenate strings with variables in them...
 

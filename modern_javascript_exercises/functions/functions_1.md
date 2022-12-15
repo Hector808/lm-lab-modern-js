@@ -1,6 +1,7 @@
 # Functions
 
-In JavaScript there are many different ways to write a function. There are no right or wrong ways to store a function but some are more modern than others.
+In JavaScript there are many different ways to write a function. There are no right or wrong ways to store a function
+but some are more modern than others.
 
 ## Task 1:
 

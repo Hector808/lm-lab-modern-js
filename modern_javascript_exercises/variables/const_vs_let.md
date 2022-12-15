@@ -32,7 +32,8 @@ Answer: Update the people array so that it uses `const` instead of `let`, as our
 
 ## Top Tip:
 
-A good habit to get into when you are coding, is using `const` for everything... then changing it to `let` if you realise your
+A good habit to get into when you are coding, is using `const` for everything... then changing it to `let` if you
+realise your
 
 variable needs to be reassigned! 👍
 

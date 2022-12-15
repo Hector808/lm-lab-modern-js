@@ -24,12 +24,14 @@ As you can imagine, this isn't the behaviour that we want...
 
 Another problem with var is that we can overwrite it.
 
-This might not seem like a big deal... but in a massive code base - overwriting variables without realising is a big issue 🙈
+This might not seem like a big deal... but in a massive code base - overwriting variables without realising is a big
+issue 🙈
 
 👉 Replace all the vars in this file with `let` so we get the behaviour we expect!
 
 ## Handy Hint:
 
-You should now get some helpful console Errors from JavaScript warning us that `i` is not defined, and `greeting` has already been declared.
+You should now get some helpful console Errors from JavaScript warning us that `i` is not defined, and `greeting` has
+already been declared.
 
 Sweet!
